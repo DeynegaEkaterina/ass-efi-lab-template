@@ -1,0 +1,4 @@
+[submodule "vm"]
+	path = vm
+	url = https://github.com/LabradorWithShades/ass-efi-vm.git
+	branch = master
